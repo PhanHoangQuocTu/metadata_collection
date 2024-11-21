@@ -1,0 +1,27 @@
+{
+    "name": "Huyyy",
+    "description": "Huy Vo Van",
+    "image": "https://scontent.fdad3-6.fna.fbcdn.net/v/t39.30808-1/423131542_3577818009152579_8556024920554579897_n.jpg?stp=dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=pcSGhWagWFAQ7kNvgHZMiEw&_nc_zt=24&_nc_ht=scontent.fdad3-6.fna&_nc_gid=Acrxs08_00WKYHW-FYdhK4S&oh=00_AYBTZkHeXevq66G47qxa4JTmyNW-Proe02njkW5oSp9vng&oe=6744B512",
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "Quick"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pixelated"
+      },
+      {
+        "trait_type": "Background",
+        "value": "QuickNode Blue"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "https://scontent.fdad3-6.fna.fbcdn.net/v/t39.30808-1/423131542_3577818009152579_8556024920554579897_n.jpg?stp=dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=pcSGhWagWFAQ7kNvgHZMiEw&_nc_zt=24&_nc_ht=scontent.fdad3-6.fna&_nc_gid=Acrxs08_00WKYHW-FYdhK4S&oh=00_AYBTZkHeXevq66G47qxa4JTmyNW-Proe02njkW5oSp9vng&oe=6744B512"
+        }
+      ]
+    }
+  }
