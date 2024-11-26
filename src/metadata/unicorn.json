@@ -1,0 +1,27 @@
+{
+  "name": "Unicorn",
+  "description": "Unicorn",
+  "image": "https://i.etsystatic.com/39938216/r/il/11dead/4579446101/il_fullxfull.4579446101_1irk.jpg",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Quick"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Background",
+      "value": "QuickNode Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://i.etsystatic.com/39938216/r/il/11dead/4579446101/il_fullxfull.4579446101_1irk.jpg"
+      }
+    ]
+  }
+}
