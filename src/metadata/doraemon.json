@@ -1,0 +1,27 @@
+{
+    "name": "Doraemon",
+    "description": "Doraemon",
+    "image": "https://imgcdn.stablediffusionweb.com/2024/9/10/7e0373fb-5810-4dba-88dc-bc11bb83aa2f.jpg",
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "Quick"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pixelated"
+      },
+      {
+        "trait_type": "Background",
+        "value": "QuickNode Blue"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "https://imgcdn.stablediffusionweb.com/2024/9/10/7e0373fb-5810-4dba-88dc-bc11bb83aa2f.jpg"
+        }
+      ]
+    }
+  }

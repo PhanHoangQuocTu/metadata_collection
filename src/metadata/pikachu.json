@@ -1,0 +1,27 @@
+{
+    "name": "Pikachu",
+    "description": "Pikachu",
+    "image": "https://banner2.cleanpng.com/20240412/gik/transparent-pikachu-black-and-white-drawing-of-pikachu661948c890ac67.96587598.webp",
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "Quick"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pixelated"
+      },
+      {
+        "trait_type": "Background",
+        "value": "QuickNode Blue"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "https://banner2.cleanpng.com/20240412/gik/transparent-pikachu-black-and-white-drawing-of-pikachu661948c890ac67.96587598.webp"
+        }
+      ]
+    }
+  }
