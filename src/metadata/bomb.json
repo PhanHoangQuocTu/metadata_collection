@@ -1,0 +1,27 @@
+{
+  "name": "Bomb",
+  "description": "Bomb",
+  "image": "https://i.pinimg.com/236x/62/2e/bf/622ebf5d91b6b9ae3fb5126e5c9167c2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Quick"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Background",
+      "value": "QuickNode Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://i.pinimg.com/236x/62/2e/bf/622ebf5d91b6b9ae3fb5126e5c9167c2.jpg"
+      }
+    ]
+  }
+}
