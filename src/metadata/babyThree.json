@@ -1,0 +1,27 @@
+{
+    "name": "Baby Three",
+    "description": "Baby Three",
+    "image": "https://eteft.com/cdn/shop/files/2736a31b-c6f1-4f1a-89ae-c4718875.png?v=1727321792",
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "Quick"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pixelated"
+      },
+      {
+        "trait_type": "Background",
+        "value": "QuickNode Blue"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "https://eteft.com/cdn/shop/files/2736a31b-c6f1-4f1a-89ae-c4718875.png?v=1727321792"
+        }
+      ]
+    }
+  }

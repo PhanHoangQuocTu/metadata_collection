@@ -1,0 +1,27 @@
+{
+    "name": "Nobita",
+    "description": "Nobita",
+    "image": "https://i.seadn.io/gae/u-J0gp23ghDWvkZd3QSNvkOB2dkywdBzwp1oZbKJXKyKtVWp28O8nTv7R-l7BUq-wekDbTth36KsElE9DrfyDhCcQGC92GlO_CgD?auto=format&dpr=1&w=3840",
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "Quick"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pixelated"
+      },
+      {
+        "trait_type": "Background",
+        "value": "QuickNode Blue"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "https://i.seadn.io/gae/u-J0gp23ghDWvkZd3QSNvkOB2dkywdBzwp1oZbKJXKyKtVWp28O8nTv7R-l7BUq-wekDbTth36KsElE9DrfyDhCcQGC92GlO_CgD?auto=format&dpr=1&w=3840"
+        }
+      ]
+    }
+  }
