@@ -1,0 +1,27 @@
+{
+  "name": "J97",
+  "description": "J97",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsfuHc0pD0BnAlwJktzb2SIzKzvWi8eHW2Q&s",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Quick"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsfuHc0pD0BnAlwJktzb2SIzKzvWi8eHW2Q&s"
+      }
+    ]
+  }
+}
